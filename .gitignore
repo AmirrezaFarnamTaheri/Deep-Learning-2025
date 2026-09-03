@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# Large Model weights and embeddings (> 100MB)
+*.npy
+*.model
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# Compressed Archives & Media
+*.zip
+*.rar
+*.tar.gz
+*.7z
+*.mp4
+*.mkv
+*.avi
+
+# Build & OS
+dist/
+build/
+out/
+target/
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
