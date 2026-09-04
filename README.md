@@ -14,7 +14,7 @@ Deep-Learning-2025/
 ├── Assignment 4/       # NLP with Attention Mechanisms and Transformers (BERT)
 ├── Assignment 5/       # Autoencoders, Generative Adversarial Networks (GANs), Diffusion Models
 ├── Assignment 6/       # Deep Reinforcement Learning (DQN, Dueling Munchausen DQN for Robotics)
-└── Final-Project/      # Final Project (Desloped & Cleaned):
+└── Final-Project/      # Final Project (Instruction Tuning & Image Captioning):
     ├── 01_Instruction_Fine_Tuning.ipynb  # Part 1: Instruction Fine-Tuning (Gemma-2-2B on Persian SlimOrca)
     ├── 02_Image_Captioning.ipynb         # Part 2: Neural Image Captioning (CNN-LSTM, Attention, Transformer)
     ├── runs_q1/                          # Checkpoints and evaluation cache

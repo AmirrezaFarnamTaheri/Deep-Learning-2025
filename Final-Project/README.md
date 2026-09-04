@@ -1,6 +1,6 @@
 # Deep Learning Final Project
 
-This repository section contains the complete, desloped, and unified implementations for the **Neural Networks and Deep Learning Final Project** (Tehran Institute for Advanced Studies - TeIAS, Instructor: Dr. Behnam Bahrak).
+This repository section contains the complete and unified implementations for the **Neural Networks and Deep Learning Final Project** (Tehran Institute for Advanced Studies - TeIAS, Instructor: Dr. Behnam Bahrak).
 
 ---
 
